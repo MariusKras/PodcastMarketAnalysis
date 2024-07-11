@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+.~notebook.ipynb
+__pycache__/
+database.sqlite
+venv2/
+data_cleaning.ipynb
