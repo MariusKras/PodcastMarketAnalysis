@@ -1,7 +1,7 @@
 # Podcast Market Analysis: Selecting The Most Promising Podcast Category
 
 > [!WARNING]
-> The notebook file (ipynb) is too large. View the project as an HTML, which will include interactive elements from Plotly, or as a PDF.
+> My goal was to use a lot of SQL, which resulted in large outputs that exceed GitHub's file size limits. View the project as a PDF or HTML to see all interactive Plotly elements.
 
 ![podcast header](header.png)
 
